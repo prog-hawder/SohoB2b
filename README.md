@@ -35,7 +35,7 @@ flutter run
 🎥 Demonstração
 Veja o vídeo de funcionamento do projeto:
 
-![Vídeo de Demonstração](https://github.com/prog-hawder/SohoB2b/video_soho.mov)
+![Vídeo de Demonstração]([https://github.com/prog-hawder/SohoB2b/video_soho.mov](https://github.com/prog-hawder/SohoB2b/blob/main/video_soho.mov))
 
 💡 Desafios Técnicos
 Integração com API: Aprendi a consumir uma API já existente da empresa, superando desafios técnicos no uso de ferramentas como o Postman para testes.
